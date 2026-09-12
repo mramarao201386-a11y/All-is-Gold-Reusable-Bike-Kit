@@ -7,7 +7,7 @@
 
 ## 🖼️ Concept Design & Visual Blueprint
 
-![All is Gold Reusable Bike Kit Infographic](ChatGPT Image Sep 12, 2026, 12_41_36 PM.png)
+![All is Gold Reusable Bike Kit Infographic](6ec4659c-b64b-4ca3-9d6d-b0da0a081e76)
 
 *(Above: Complete technical infographic showing the retrofitted classic motorcycle, self-cleaning thermal cracking chamber, mini-condenser, and step-by-step working schematics.)*
 
